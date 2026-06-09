@@ -4,9 +4,10 @@
 
 ## 📷 결과물 미리보기
 
-<!-- 이곳에 앱의 스크린샷이나 동작 GIF 이미지를 추가해주세요 -->
-![결과물 미리보기 이미지 추가 1]()
-![결과물 미리보기 이미지 추가 2]()
+<img width="1108" height="1272" alt="image" src="https://github.com/user-attachments/assets/7b0181ea-abc5-4171-a2d6-05d076e5f719" />
+
+<img width="1122" height="1280" alt="image" src="https://github.com/user-attachments/assets/9c1fe72e-ce0f-4230-9892-7ec48411bf18" />
+
 
 ---
 
