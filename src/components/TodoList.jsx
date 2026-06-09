@@ -1,6 +1,7 @@
+import { memo } from 'react';
 import TodoItem from './TodoItem';
 
-export default function TodoList({ todos, toggleTodo, editTodo, deleteTodo }) {
+const TodoList = memo(function TodoList({ todos, toggleTodo, editTodo, deleteTodo }) {
   if (todos.length === 0) {
     return (
       <div className="text-center text-gray-400 py-8">
@@ -22,4 +23,6 @@ export default function TodoList({ todos, toggleTodo, editTodo, deleteTodo }) {
       ))}
     </ul>
   );
-}
+});
+
+export default TodoList;

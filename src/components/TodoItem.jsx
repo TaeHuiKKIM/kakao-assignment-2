@@ -1,6 +1,6 @@
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect, memo } from 'react';
 
-export default function TodoItem({ todo, toggleTodo, editTodo, deleteTodo }) {
+const TodoItem = memo(function TodoItem({ todo, toggleTodo, editTodo, deleteTodo }) {
   const [isEditing, setIsEditing] = useState(false);
   const [editText, setEditText] = useState(todo.text);
   const inputRef = useRef(null);
@@ -72,4 +72,6 @@ export default function TodoItem({ todo, toggleTodo, editTodo, deleteTodo }) {
       </div>
     </li>
   );
-}
+});
+
+export default TodoItem;
