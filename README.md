@@ -4,9 +4,9 @@
 
 ## 📷 결과물 미리보기
 
-<img width="1108" height="1272" alt="image" src="https://github.com/user-attachments/assets/7b0181ea-abc5-4171-a2d6-05d076e5f719" />
+<img width="400" height="480" alt="image" src="https://github.com/user-attachments/assets/7b0181ea-abc5-4171-a2d6-05d076e5f719" />
 
-<img width="1122" height="1280" alt="image" src="https://github.com/user-attachments/assets/9c1fe72e-ce0f-4230-9892-7ec48411bf18" />
+<img width="400" height="480" alt="image" src="https://github.com/user-attachments/assets/9c1fe72e-ce0f-4230-9892-7ec48411bf18" />
 
 
 ---
