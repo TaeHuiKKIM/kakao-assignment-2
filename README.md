@@ -2,6 +2,12 @@
 
 이 프로젝트는 기존 Vanilla JS로 작성된 Todo 앱을 React(Vite) 기반으로 마이그레이션한 결과물입니다. 컴포넌트 단위의 개발과 상태 관리(State)를 통해 UI를 효과적으로 구성했습니다.
 
+## 로컬 캡처
+
+| Desktop | Mobile |
+| --- | --- |
+| ![desktop](docs/screenshots/home-desktop.png) | ![mobile](docs/screenshots/home-mobile.png) |
+
 ## 📷 결과물 미리보기
 
 <img width="400" height="480" alt="image" src="https://github.com/user-attachments/assets/7b0181ea-abc5-4171-a2d6-05d076e5f719" />
